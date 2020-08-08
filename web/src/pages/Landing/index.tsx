@@ -9,6 +9,7 @@ function Landing() {
                     <img src={logoImg} alt="Proff"/>
                 </div>
             </div>
+            <h1>teste git</h1>
         </div>
 
 
